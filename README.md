@@ -18,7 +18,7 @@ The script itself works in the following way (see R script for inline comments):
 2. Read the test data, labels, subjects into seperate data frames (X_text.txt, y_test.txt, subject_test.txt)
 3. Join the respective data frames using row binding: rbind()
 4. Read the features into a data frame (features.txt)
-5. Find relevant columns for subsetting the combined data using grep and regular expression: grep("mean\\(.|std\\(.")
+5. Find relevant columns for subsetting the combined data using grep and regular expression: grep("mean\\\\(.|std\\\\(.")
 6. Using the columns indentified in 5. subset the data: df <- df[, columns]
 7. Sanitize the column names in the data by removing parenthesis and capitalizing 'mean' and 'std' columns. Use make.names() to make sure all column names are validated
 8. Read the activities into a data frame (activity_labels.txt)
