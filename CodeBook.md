@@ -1,21 +1,18 @@
 ## This file describes the variables within the tidy data ##
 
-For each record it is provided:
-======================================
-
-subject 2
-	Subject identifier
-		1..30
-
-activity 18
-	Physical Activity
-		1. laying
-		2. sitting
-		3. standing
-		4. walking
-		5. walking.downstairs
-		6. walking.upstairs
-
+subject 2   
+	Subject identifier   
+		1..30   
+   
+activity 18   
+	Physical Activity   
+		1. laying   
+		2. sitting   
+		3. standing   
+		4. walking   
+		5. walking.downstairs   
+		6. walking.upstairs   
+   
 tBodyAcc.Mean.X
 tBodyAcc.Mean.Y
 tBodyAcc.Mean.Z
