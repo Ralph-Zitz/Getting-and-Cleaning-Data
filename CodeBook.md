@@ -13,135 +13,135 @@
     * 5. walking.downstairs
     * 6. walking.upstairs
    
-* tBodyAcc.Mean.X
- * Aggregated mean of Time body accelerometer signal
-* tBodyAcc.Mean.Y
- * Aggregated mean of Time body accelerometer signal
-* tBodyAcc.Mean.Z
- * Aggregated mean of Time body accelerometer signal
-* tBodyAcc.Std.X
- * Aggregated mean of Time body accelerometer signal
-* tBodyAcc.Std.Y
- * Aggregated mean of Time body accelerometer signal
-* tBodyAcc.Std.Z
- * Aggregated mean of Time body accelerometer signal
-* tGravityAcc.Mean.X
- * Aggregated mean of Time gravity accelerometer signal
-* tGravityAcc.Mean.Y
- * Aggregated mean of Time gravity accelerometer signal
-* tGravityAcc.Mean.Z
- * Aggregated mean of Time gravity accelerometer signal
-* tGravityAcc.Std.X
- * Aggregated mean of Time gravity accelerometer signal
-* tGravityAcc.Std.Y
- * Aggregated mean of Time gravity accelerometer signal
-* tGravityAcc.Std.Z
- * Aggregated mean of Time gravity accelerometer signal
-* tBodyAccJerk.Mean.X
- * Aggregated mean of Time body accelerometer jerk signal
-* tBodyAccJerk.Mean.Y
- * Aggregated mean of Time body accelerometer jerk signal
-* tBodyAccJerk.Mean.Z
- * Aggregated mean of Time body accelerometer jerk signal
-* tBodyAccJerk.Std.X
- * Aggregated mean of Time body accelerometer jerk signal
-* tBodyAccJerk.Std.Y
- * Aggregated mean of Time body accelerometer jerk signal
-* tBodyAccJerk.Std.Z
- * Aggregated mean of Time body accelerometer jerk signal
-* tBodyGyro.Mean.X
- * Aggregated mean of Time body gyroscope signal
-* tBodyGyro.Mean.Y
- * Aggregated mean of Time body gyroscope signal
-* tBodyGyro.Mean.Z
- * Aggregated mean of Time body gyroscope signal
-* tBodyGyro.Std.X
- * Aggregated mean of Time body gyroscope signal
-* tBodyGyro.Std.Y
- * Aggregated mean of Time body gyroscope signal
-* tBodyGyro.Std.Z
- * Aggregated mean of Time body gyroscope signal
-* tBodyGyroJerk.Mean.X
- * Aggregated mean of Time body gyroscope jerk signal
-* tBodyGyroJerk.Mean.Y
- * Aggregated mean of Time body gyroscope jerk signal
-* tBodyGyroJerk.Mean.Z
- * Aggregated mean of Time body gyroscope jerk signal
-* tBodyGyroJerk.Std.X
- * Aggregated mean of Time body gyroscope jerk signal
-* tBodyGyroJerk.Std.Y
- * Aggregated mean of Time body gyroscope jerk signal
-* tBodyGyroJerk.Std.Z
- * Aggregated mean of Time body gyroscope jerk signal
-* tBodyAccMag.Mean
- * Aggregated mean of Time body accelerometer magnitude signal
-* tBodyAccMag.Std
- * Aggregated mean of Time body accelerometer magnitude signal
-* tGravityAccMag.Mean
- * Aggregated mean of Time gravity accelerometer magnitude signal
-* tGravityAccMag.Std
- * Aggregated mean of Time gravity accelerometer magnitude signal
-* tBodyAccJerkMag.Mean
- * Aggregated mean of Time body accelerometer magnitude jerk signal
-* tBodyAccJerkMag.Std
- * Aggregated mean of Time body accelerometer magnitude jerk signal
-* tBodyGyroMag.Mean
- * Aggregated mean of Time body gyroscope magnitude signal
-* tBodyGyroMag.Std
- * Aggregated mean of Time body gyroscope magnitude signal
-* tBodyGyroJerkMag.Mean
- * Aggregated mean of Time body gyroscope magnitude jerk signal
-* tBodyGyroJerkMag.Std
- * Aggregated mean of Time body gyroscope magnitude jerk signal
-* fBodyAcc.Mean.X
- * Aggregated mean of Frequency domain accelerometer signal
-* fBodyAcc.Mean.Y
- * Aggregated mean of Frequency domain accelerometer signal
-* fBodyAcc.Mean.Z
- * Aggregated mean of Frequency domain accelerometer signal
-* fBodyAcc.Std.X
- * Aggregated mean of Frequency domain accelerometer signal
-* fBodyAcc.Std.Y
- * Aggregated mean of Frequency domain accelerometer signal
-* fBodyAcc.Std.Z
- * Aggregated mean of Frequency domain accelerometer signal
-* fBodyAccJerk.Mean.X
- * Aggregated mean of Frequency domain accelerometer jerk signal
-* fBodyAccJerk.Mean.Y 
- * Aggregated mean of Frequency domain accelerometer jerk signal
-* fBodyAccJerk.Mean.Z
- * Aggregated mean of Frequency domain accelerometer jerk signal
-* fBodyAccJerk.Std.X
- * Aggregated mean of Frequency domain accelerometer jerk signal
-* fBodyAccJerk.Std.Y
- * Aggregated mean of Frequency domain accelerometer jerk signal
-* fBodyAccJerk.Std.Z
- * Aggregated mean of Frequency domain accelerometer jerk signal
-* fBodyGyro.Mean.X
- * Aggregated mean of Frequency domain gyroscope signal
-* fBodyGyro.Mean.Y
- * Aggregated mean of Frequency domain gyroscope signal
-* fBodyGyro.Mean.Z
- * Aggregated mean of Frequency domain gyroscope signal
-* fBodyGyro.Std.X
- * Aggregated mean of Frequency domain gyroscope signal
-* fBodyGyro.Std.Y 
- * Aggregated mean of Frequency domain gyroscope signal
-* fBodyGyro.Std.Z
- * Aggregated mean of Frequency domain gyroscope signal
-* fBodyAccMag.Mean
- * Aggregated mean of Frequency domain accelerometer magnitude signal
-* fBodyAccMag.Std
- * Aggregated mean of Frequency domain accelerometer magnitude signal
-* fBodyBodyAccJerkMag.Mean
- * Aggregated mean of Frequency domain gyroscope magnitude jerk signal
-* fBodyBodyAccJerkMag.Std
- * Aggregated mean of Frequency domain accelerometer magnitude signal
-* fBodyBodyGyroMag.Mean
- * Aggregated mean of Frequency domain gyroscope magnitude signal
-* fBodyBodyGyroMag.Std
- * Aggregated mean of Frequency domain gyroscope magnitude signal
-* fBodyBodyGyroJerkMag.Mean
- * Aggregated mean of Frequency domain gyroscope magnitude jerk signal
-* fBodyBodyGyroJerkMag.Std
- * Aggregated mean of Frequency domain gyroscope magnitude jerk signal
+* tBodyAcc.Mean.X 17
+ * Aggregated mean of Time body accelerometer signal means X-axis
+* tBodyAcc.Mean.Y 17
+ * Aggregated mean of Time body accelerometer signal means Y-axis
+* tBodyAcc.Mean.Z 17
+ * Aggregated mean of Time body accelerometer signal means Z-axis
+* tBodyAcc.Std.X 17
+ * Aggregated mean of Time body accelerometer signal standard deviation X-axis
+* tBodyAcc.Std.Y 17
+ * Aggregated mean of Time body accelerometer signal standard deviation Y-axis
+* tBodyAcc.Std.Z 17
+ * Aggregated mean of Time body accelerometer signal standard deviation Z-axis
+* tGravityAcc.Mean.X 17
+ * Aggregated mean of Time gravity accelerometer signal means X-axis
+* tGravityAcc.Mean.Y 17
+ * Aggregated mean of Time gravity accelerometer signal means Y-axis
+* tGravityAcc.Mean.Z 17
+ * Aggregated mean of Time gravity accelerometer signal means Z-axis
+* tGravityAcc.Std.X 17
+ * Aggregated mean of Time gravity accelerometer signal standard deviation X-axis
+* tGravityAcc.Std.Y 17
+ * Aggregated mean of Time gravity accelerometer signal standard deviation Y-axis
+* tGravityAcc.Std.Z 17
+ * Aggregated mean of Time gravity accelerometer signal standard deviation Z-axis
+* tBodyAccJerk.Mean.X 17
+ * Aggregated mean of Time body accelerometer jerk signal means X-axis
+* tBodyAccJerk.Mean.Y 17
+ * Aggregated mean of Time body accelerometer jerk signal means Y-axis
+* tBodyAccJerk.Mean.Z 17
+ * Aggregated mean of Time body accelerometer jerk signal means Z-axis
+* tBodyAccJerk.Std.X 17
+ * Aggregated mean of Time body accelerometer jerk signal standard deviation X-axis
+* tBodyAccJerk.Std.Y 17
+ * Aggregated mean of Time body accelerometer jerk signal standard deviation Y-axis
+* tBodyAccJerk.Std.Z 17
+ * Aggregated mean of Time body accelerometer jerk signal standard deviation Z-axis
+* tBodyGyro.Mean.X 17
+ * Aggregated mean of Time body gyroscope signal means X-axis
+* tBodyGyro.Mean.Y 17
+ * Aggregated mean of Time body gyroscope signal means Y-axis
+* tBodyGyro.Mean.Z 17
+ * Aggregated mean of Time body gyroscope signal means Z-axis
+* tBodyGyro.Std.X 17
+ * Aggregated mean of Time body gyroscope signal standard deviation X-axis
+* tBodyGyro.Std.Y 17
+ * Aggregated mean of Time body gyroscope signal standard deviation Y-axis
+* tBodyGyro.Std.Z 17
+ * Aggregated mean of Time body gyroscope signal standard deviation Z-axis
+* tBodyGyroJerk.Mean.X 17
+ * Aggregated mean of Time body gyroscope jerk signal means X-axis
+* tBodyGyroJerk.Mean.Y 17
+ * Aggregated mean of Time body gyroscope jerk signal means Y-axis
+* tBodyGyroJerk.Mean.Z 17
+ * Aggregated mean of Time body gyroscope jerk signal means Z-axis
+* tBodyGyroJerk.Std.X 17
+ * Aggregated mean of Time body gyroscope jerk signal standard deviation X-axis
+* tBodyGyroJerk.Std.Y 17
+ * Aggregated mean of Time body gyroscope jerk signal standard deviation Y-axis
+* tBodyGyroJerk.Std.Z 17
+ * Aggregated mean of Time body gyroscope jerk signal standard deviation Z-axis
+* tBodyAccMag.Mean 17
+ * Aggregated mean of Time body accelerometer magnitude signal means
+* tBodyAccMag.Std 17
+ * Aggregated mean of Time body accelerometer magnitude signal means
+* tGravityAccMag.Mean 17
+ * Aggregated mean of Time gravity accelerometer magnitude signal means
+* tGravityAccMag.Std 17
+ * Aggregated mean of Time gravity accelerometer magnitude signal standard deviation
+* tBodyAccJerkMag.Mean 17
+ * Aggregated mean of Time body accelerometer magnitude jerk signal means
+* tBodyAccJerkMag.Std 17
+ * Aggregated mean of Time body accelerometer magnitude jerk signal standard deviation
+* tBodyGyroMag.Mean 17
+ * Aggregated mean of Time body gyroscope magnitude signal means
+* tBodyGyroMag.Std 17
+ * Aggregated mean of Time body gyroscope magnitude signal standard deviation
+* tBodyGyroJerkMag.Mean 17
+ * Aggregated mean of Time body gyroscope magnitude jerk signal means
+* tBodyGyroJerkMag.Std 17
+ * Aggregated mean of Time body gyroscope magnitude jerk signal standard deviation
+* fBodyAcc.Mean.X 17
+ * Aggregated mean of Frequency domain accelerometer signal means X-axis
+* fBodyAcc.Mean.Y 17
+ * Aggregated mean of Frequency domain accelerometer signal means Y-axis
+* fBodyAcc.Mean.Z 17
+ * Aggregated mean of Frequency domain accelerometer signal means Z-axis
+* fBodyAcc.Std.X 17
+ * Aggregated mean of Frequency domain accelerometer signal standard deviation X-axis
+* fBodyAcc.Std.Y 17
+ * Aggregated mean of Frequency domain accelerometer signal standard deviation Y-axis
+* fBodyAcc.Std.Z 17
+ * Aggregated mean of Frequency domain accelerometer signal standard deviation Z-axis
+* fBodyAccJerk.Mean.X 17
+ * Aggregated mean of Frequency domain accelerometer jerk signal means X-axis
+* fBodyAccJerk.Mean.Y 17
+ * Aggregated mean of Frequency domain accelerometer jerk signal means Y-axis
+* fBodyAccJerk.Mean.Z 17
+ * Aggregated mean of Frequency domain accelerometer jerk signal means Z-axis
+* fBodyAccJerk.Std.X 17
+ * Aggregated mean of Frequency domain accelerometer jerk signal standard deviation X-axis
+* fBodyAccJerk.Std.Y 17
+ * Aggregated mean of Frequency domain accelerometer jerk signal standard deviation Y-axis
+* fBodyAccJerk.Std.Z 17
+ * Aggregated mean of Frequency domain accelerometer jerk signal standard deviation Z-axis
+* fBodyGyro.Mean.X 17
+ * Aggregated mean of Frequency domain gyroscope signal means X-axis
+* fBodyGyro.Mean.Y 17
+ * Aggregated mean of Frequency domain gyroscope signal means Y-axis
+* fBodyGyro.Mean.Z 17
+ * Aggregated mean of Frequency domain gyroscope signal means Z-axis
+* fBodyGyro.Std.X 17
+ * Aggregated mean of Frequency domain gyroscope signal standard deviation X-axis
+* fBodyGyro.Std.Y 17
+ * Aggregated mean of Frequency domain gyroscope signal standard deviation Y-axis
+* fBodyGyro.Std.Z 17
+ * Aggregated mean of Frequency domain gyroscope signal standard deviation Z-axis
+* fBodyAccMag.Mean 17
+ * Aggregated mean of Frequency domain accelerometer magnitude signal means
+* fBodyAccMag.Std 17
+ * Aggregated mean of Frequency domain accelerometer magnitude signal standard deviation
+* fBodyBodyAccJerkMag.Mean 17
+ * Aggregated mean of Frequency domain gyroscope magnitude jerk signal means
+* fBodyBodyAccJerkMag.Std 17
+ * Aggregated mean of Frequency domain accelerometer magnitude signal standard deviation
+* fBodyBodyGyroMag.Mean 17
+ * Aggregated mean of Frequency domain gyroscope magnitude signal means
+* fBodyBodyGyroMag.Std 17
+ * Aggregated mean of Frequency domain gyroscope magnitude signal standard deviation
+* fBodyBodyGyroJerkMag.Mean 17
+ * Aggregated mean of Frequency domain gyroscope magnitude jerk signal means
+* fBodyBodyGyroJerkMag.Std 17
+ * Aggregated mean of Frequency domain gyroscope magnitude jerk signal standard deviation
