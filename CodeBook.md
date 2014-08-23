@@ -1,8 +1,8 @@
 ## This file describes the variables within the tidy data ##
 
-* subject 2  
- * Subject identifier   
-  * 1..30   
+* subject 2
+ * Subject identifier
+  * 1..30
    
 * activity 18   
  * Physical Activity   
